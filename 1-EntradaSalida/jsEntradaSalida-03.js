@@ -8,7 +8,8 @@ function mostrar()
 	nombre = document.getElementById("txtIdNombre").value;
 	alert(nombre);
 
-	document.getElementById("txtIdNombre").value= "";
+	//para dejar en blanco la caja de texto
+	//document.getElementById("txtIdNombre").value= "";
 
 }
 
